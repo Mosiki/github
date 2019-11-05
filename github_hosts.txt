@@ -1,8 +1,8 @@
 # GitHub Start
-52.74.223.119 github.com
-8.7.198.45 gist.github.com
-185.199.111.153 assets-cdn.github.com
-31.13.73.1 raw.githubusercontent.com
+13.229.188.59 github.com
+59.24.3.173 gist.github.com
+185.199.110.153 assets-cdn.github.com
+69.171.244.11 raw.githubusercontent.com
 151.101.76.133 gist.githubusercontent.com
 151.101.76.133 cloud.githubusercontent.com
 151.101.76.133 camo.githubusercontent.com
