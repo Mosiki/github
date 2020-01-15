@@ -6,7 +6,7 @@
 
 1. 复制如下 hosts 地址
   ```
-  https://raw.githubusercontent.com/Mosiki/github/master/github_hosts.txt
+  https://gitee.com/Mosiki/github/raw/master/github_hosts.txt
   ```
 1. 新增远程 hosts  
 笔者在 mac 下操作，win 是同理。
