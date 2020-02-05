@@ -1,7 +1,7 @@
 # GitHub Start
-52.74.223.119 github.com
-8.7.198.45 gist.github.com
-185.199.111.153 assets-cdn.github.com
+13.250.177.223 github.com
+59.24.3.173 gist.github.com
+185.199.109.153 assets-cdn.github.com
 151.101.228.133 raw.githubusercontent.com
 151.101.228.133 gist.githubusercontent.com
 151.101.228.133 cloud.githubusercontent.com
@@ -15,6 +15,7 @@
 151.101.228.133 avatars6.githubusercontent.com
 151.101.228.133 avatars7.githubusercontent.com
 151.101.228.133 avatars8.githubusercontent.com
-185.199.109.154 github.githubassets.com
+185.199.110.154 github.githubassets.com
+174.36.196.242 github.global.ssl.fastly.net
 
 # GitHub End

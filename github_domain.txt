@@ -15,3 +15,4 @@ avatars6.githubusercontent.com
 avatars7.githubusercontent.com
 avatars8.githubusercontent.com
 github.githubassets.com
+github.global.ssl.fastly.net
